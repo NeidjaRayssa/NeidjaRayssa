@@ -1,4 +1,40 @@
-### Hi there 👋
+## Neidja Rayssa👾
+
+
+ 
+<div style="display: inline-block;">
+  <img height="180em"  src="https://octodex.github.com/images/daftpunktocat-thomas.gif"/>
+  
+<h2> Estudante Front-end 
+</h2>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 <!--
 **NeidjaRayssa/NeidjaRayssa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -4,10 +4,12 @@
  
 <div style="display: inline-block;">
   <img height="180em"  src="https://octodex.github.com/images/daftpunktocat-thomas.gif"/>
+<br>
+<img src="https://raw.githubusercontent.com/AnderMendoza/AnderMendoza/main/assets/line-neon.gif">
   
 <h2> Estudante Front-end 
 </h2>
-
+<img src="https://raw.githubusercontent.com/AnderMendoza/AnderMendoza/main/assets/line-neon.gif">
 
 
 

@@ -1,7 +1,5 @@
 ## Neidja Rayssa👾
 
-
- 
 <div style="display: inline-block;">
   <img height="180em"  src="https://octodex.github.com/images/daftpunktocat-thomas.gif"/>
 <br>

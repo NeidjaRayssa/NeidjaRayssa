@@ -10,6 +10,7 @@
   <img align="center" alt="Neidja-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Neidja-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Neidja-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+    <img align="center" alt="Neidja-C" height="40" width="40" src="https://lh3.googleusercontent.com/proxy/Xggj9s_F6cTYIqr5nFYMwVJ8DZsddvhqD3B5Bs0x0F4kzYcOjK-NMIEfnJ8xQTelcSoy3PBUkvWFR3hfp29IyJB1Nwq9Kxp5Na6yRTovvwaAlg_hVpvQbR6Fj2pY">
 </div>
   <br>
   <a href="https://instagram.com/neidja.rayssa" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>

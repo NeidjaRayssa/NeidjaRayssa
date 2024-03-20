@@ -1,18 +1,49 @@
-## Oiii eu sou Neidja Rayssa, e sou estudante front-end!👾
+<!-- apresentação -->
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=61dafb&size=35&center=true&vCenter=true&width=1000&lines=oii!,+My+name+is+Neidja+Rayssa;I'm+18+years+old;I+live+in+Recife,+Brazil;I+study+Systems+Analysis+and+Development;Be+Welcome!+👾)](https://git.io/typing-svg)
+
+<!-- linha colorida -->
+<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
+  
 <br>
-<div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=NeidjaRayssa&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="Neidja github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NeidjaRayssa&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
-</div>
+<h2 align="center">⚡ Stats ⚡</h2>
 <br>
+<p align=center>
+  <!-- stats 1 -->
+  <div align=center>
+    <a href="https://github.com/denvercoder1/github-readme-streak-stats" title="Go to Source">
+      <img align="left" width=390 src="https://streak-stats.demolab.com/?user=NeidjaRayssa&theme=react&border=61dafb&hide_border=true" alt="NeidjaRayssa" />
+    </a>
+    <!-- stats 2 -->
+    <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
+      <img align="right" width=390 src="https://github-readme-stats.vercel.app/api?username=NeidjaRayssa&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
+    </a>
+  </div>
+  <br><br><br><br><br><br><br><br><br>
+  <!-- stats 3 -->
+  <div align=center>
+    <a href="https://github.com/anuraghazra/github-readme-stats">
+      <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NeidjaRayssa&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true&size_weight=0.5&count_weight=0.5" />
+    </a>
+  </div>
+  <br>
+<!-- stats 4 -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=NeidjaRayssa&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
+</p>
+
+<hr>
+
+
+
+<!-- linguagens -->
 <div> 
-  <div style="display: inline_block"><br>
+  <div style="display: inline_block">
+    <br>
   <img align="center" alt="Neidja-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Neidja-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Neidja-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-    <img align="center" alt="Neidja-C" height="40" width="40" src="https://lh3.googleusercontent.com/proxy/Xggj9s_F6cTYIqr5nFYMwVJ8DZsddvhqD3B5Bs0x0F4kzYcOjK-NMIEfnJ8xQTelcSoy3PBUkvWFR3hfp29IyJB1Nwq9Kxp5Na6yRTovvwaAlg_hVpvQbR6Fj2pY">
 </div>
   <br>
+  <!-- contatos-->
   <a href="https://instagram.com/neidja.rayssa" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  	<!-- <a href="https://www.twitch.tv/rafaballerinii" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
  <a href="https://discord.gg/wagxzStdcR" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>  -->
